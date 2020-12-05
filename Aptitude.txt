@@ -1,0 +1,8 @@
+music 4.14
+logic/math 4
+spatial 4
+self 3.29
+language 3.14
+interpersonal 2.86
+kinesthetic 2.71
+Naturalist 2.29
